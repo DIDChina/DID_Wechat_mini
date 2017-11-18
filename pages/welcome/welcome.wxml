@@ -1,0 +1,7 @@
+<view>
+  <image src='/images/timg.jpg'></image>
+  <text></text>
+  <view>
+    <text>Hello， 七月</text>
+  </view>
+</view>
